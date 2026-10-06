@@ -1,0 +1,8 @@
+Day 1 - HTML Document Structure
+  Html is Hypertext markup language. It tells the web browser how to structure the website.
+  a basic HTML structure contains:
+'<!DOCTYPE html>'- tells the browser uses HTML5
+  '<html>'- contains the whole html document
+  '<head>'- contains information about the page such as page title
+  '<body>'- contains the content of the web page seen by users.
+  Elements in Html often have an opening tag and closing tag.
